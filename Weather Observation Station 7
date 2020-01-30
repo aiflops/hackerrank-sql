@@ -1,0 +1,6 @@
+# SQL
+* [Weather Observation Station 7](https://www.hackerrank.com/challenges/weather-observation-station-7/problem)
+
+## My MSSQL Query:
+
+select distinct city from station where city like '[aeiou]%';
