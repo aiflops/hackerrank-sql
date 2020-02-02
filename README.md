@@ -9,5 +9,6 @@ Task on Github repo - hackerrank task descrition
 * [Weather Observation Station 7](https://github.com/aiflops/hackerrank-sql/blob/master/Weather%20Observation%20Station%207) -  [hackerrank](https://www.hackerrank.com/challenges/weather-observation-station-7/problem)
 * [Weather Observation Station 8](https://github.com/aiflops/hackerrank-sql/blob/master/Weather%20Observation%20Station%208) -  [hackerrank](https://www.hackerrank.com/challenges/weather-observation-station-8/problem)
 * [Higher Than 75 Marks](https://github.com/aiflops/hackerrank-sql/blob/master/Higher%20Than%2075%20Marks) -  [hackerrank](https://www.hackerrank.com/challenges/more-than-75-marks/problem)
+* [Top Earners]() -  [hackerrank](https://www.hackerrank.com/challenges/earnings-of-employees/problem)
 
 
