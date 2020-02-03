@@ -12,7 +12,7 @@ Task on Github repo - hackerrank task descrition
 * [Top Earners](https://github.com/aiflops/hackerrank-sql/blob/master/Top%20Earners) -  [hackerrank](https://www.hackerrank.com/challenges/earnings-of-employees/problem)
 * [The Blunder](https://github.com/aiflops/hackerrank-sql/blob/master/The%20Blunder) -  [hackerrank](https://www.hackerrank.com/challenges/the-blunder/problem)
 * [Weather Observation Station 2](https://github.com/aiflops/hackerrank-sql/blob/master/Weather%20Observation%20Station%202) -  [hackerrank](https://www.hackerrank.com/challenges/weather-observation-station-2/problem?h_r=next-challenge&h_v=zen)
-* [Weather Observation Station 13](https://github.com/aiflops/hackerrank-sql/blob/master/Weather%20Observation%20Station) -  [hackerrank](https://www.hackerrank.com/challenges/weather-observation-station-2/problem?h_r=next-challenge&h_v=zen)
+* [Weather Observation Station 13](https://github.com/aiflops/hackerrank-sql/blob/master/Weather%20Observation%20Station) -  [hackerrank](https://www.hackerrank.com/challenges/weather-observation-station-13/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen)
 
 
 
