@@ -11,6 +11,7 @@ Task on Github repo - hackerrank task descrition
 * [Higher Than 75 Marks](https://github.com/aiflops/hackerrank-sql/blob/master/Higher%20Than%2075%20Marks) -  [hackerrank](https://www.hackerrank.com/challenges/more-than-75-marks/problem)
 * [Top Earners](https://github.com/aiflops/hackerrank-sql/blob/master/Top%20Earners) -  [hackerrank](https://www.hackerrank.com/challenges/earnings-of-employees/problem)
 * [The Blunder](https://github.com/aiflops/hackerrank-sql/blob/master/The%20Blunder) -  [hackerrank](https://www.hackerrank.com/challenges/the-blunder/problem)
+* [Weather Observation Station 2](https://github.com/aiflops/hackerrank-sql/blob/master/Weather%20Observation%20Station%202) -  [hackerrank](https://www.hackerrank.com/challenges/weather-observation-station-2/problem?h_r=next-challenge&h_v=zen)
 
 
 
